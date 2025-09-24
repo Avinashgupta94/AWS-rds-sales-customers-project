@@ -25,8 +25,26 @@ Hands-on **AWS RDS (PostgreSQL)** project demonstrating an end-to-end data engin
 
 ---
 
-## 📸 Project Screenshots
-All execution proofs & outputs are included in the [`Screenshots`](./Screenshots) folder.
+## 📸 Project Screenshots  
+
+**Customer & Sales Data Join (CloudShell)**  
+![Customer Sales Join](https://github.com/Avinashgupta94/AWS-rds-sales-customers-project/blob/main/Screenshots/aws_cloudshell_customer_sales_join.png.png?raw=true)  
+
+**SQL Queries Execution (CloudShell)**  
+![SQL Queries](https://github.com/Avinashgupta94/AWS-rds-sales-customers-project/blob/main/Screenshots/aws_cloudshell_top_analysis_query.png.png?raw=true)  
+
+**Top Customers – Analysis Output**  
+![Top Customers](https://github.com/Avinashgupta94/AWS-rds-sales-customers-project/blob/main/Screenshots/aws_cloudshell_top_analysis_output1.png.png?raw=true)  
+
+**Top Products & Days – Analysis Output**  
+![Top Products/Days](https://github.com/Avinashgupta94/AWS-rds-sales-customers-project/blob/main/Screenshots/aws_cloudshell_top_analysis_output2.png.png?raw=true)  
+
+**Gender-based Analysis Output**  
+![Gender Analysis](https://github.com/Avinashgupta94/AWS-rds-sales-customers-project/blob/main/Screenshots/aws_cloudshell_top_analysis_output3.png.png?raw=true)  
+
+**RDS Monitoring Dashboard**  
+![RDS Monitoring](https://github.com/Avinashgupta94/AWS-rds-sales-customers-project/blob/main/Screenshots/aws_rds_monitoring_dashboard.png.png?raw=true)  
+
 
 ---
 
